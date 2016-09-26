@@ -1,2 +1,2 @@
 # hello-world
-Checking out github
+Checking out github commit
